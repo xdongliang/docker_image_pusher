@@ -1,6 +1,6 @@
 nginx
 oceanbase/oceanbase-ce:latest
-store/oracle/database-enterprise:12.2.0.1
+oracleinanutshell/oracle-xe-11g
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
