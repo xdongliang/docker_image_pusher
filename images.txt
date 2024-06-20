@@ -1,5 +1,6 @@
 nginx
 sonarqube:lts-community
+sonarqube:lts-enterprise
 oceanbase/oceanbase-ce:latest
 oracleinanutshell/oracle-xe-11g
 
